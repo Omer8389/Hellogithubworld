@@ -8,6 +8,7 @@ public class HelloGitWorld {
       System.out.println("lastname");
       System.out.println("Ilk Branch imin icinde yaptigim degisiklik");
       System.out.println("bunu ben yaptım...");
+      System.out.println("2. kez yap...");
    }
 
 
